@@ -1,6 +1,6 @@
 require "spec_helper"
 
-RSpec.describe Conway1 do
+RSpec.describe Conway do
   it "has a version number" do
     expect(Conway1::VERSION).not_to be nil
   end

@@ -1,3 +1,3 @@
-module Conway1
+module Conway
   VERSION = "0.1.0"
 end

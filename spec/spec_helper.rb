@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "conway1"
+require "conway"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

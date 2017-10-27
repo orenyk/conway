@@ -1,4 +1,4 @@
-require "conway1/version"
+require "conway/version"
 
 module Conway1
   # Your code goes here...
